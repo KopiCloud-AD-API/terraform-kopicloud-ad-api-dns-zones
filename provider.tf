@@ -16,4 +16,3 @@ provider "kopicloud" {
   host  = var.kopicloud_host
   token = var.kopicloud_token
 }
-
