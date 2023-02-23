@@ -3,7 +3,8 @@
 
 ## Code creates:
 
-TBC
+- Create DNS Lookup Zones
+- List DNS Lookup Zones
 
 ## How to use this code:
 
