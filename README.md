@@ -1,10 +1,13 @@
-## Manage DNS Lookup Zones in Microsoft AD DNS using the KopiCloud AD API Terraform Provider
+## Manage DNS Zones in Microsoft AD DNS using the KopiCloud AD API Terraform Provider
 [![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
 
 ## Code creates:
 
+- List All DNS Zones
 - Create DNS Lookup Zones
 - List DNS Lookup Zones
+- Create DNS Reverse Lookup Zones
+- List DNS Reverse Lookup Zones
 
 ## How to use this code:
 
