@@ -3,8 +3,7 @@
 ###########################################
 
 # List All DNS Zones
-data "kopicloud_dns_zone_list" "test_all" {
-}
+data "kopicloud_dns_zone_list" "test_all" { }
 
 # Returns List of All DNS Zones
 output "dns_all_zone_list" {
