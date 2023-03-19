@@ -12,4 +12,3 @@ output "dns_lookup_zone" {
   description = "Created DNS Lookup Zone"
   value       = resource.kopicloud_dns_lookup_zone.test_lookup
 }
-
