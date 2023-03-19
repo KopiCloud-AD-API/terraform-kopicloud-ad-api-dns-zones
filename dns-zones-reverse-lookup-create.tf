@@ -12,3 +12,4 @@ output "dns_reverse_zone" {
   description = "Created DNS Reverse Lookup Zone"
   value       = resource.kopicloud_dns_reverse_lookup_zone.test_reverse
 }
+
