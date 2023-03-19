@@ -11,3 +11,4 @@ output "dns_reverse_lookup_zone_list" {
   description = "List of DNS Reverse Lookup Zones"
   value       = data.kopicloud_dns_reverse_lookup_zone_list.test_reverse_all
 }
+
